@@ -1,0 +1,1 @@
+def invite(invite="You are invited to the party")
